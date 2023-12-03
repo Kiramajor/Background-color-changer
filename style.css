@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.color{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    color: black;
+    background: linear-gradient(45deg, rgb(81, 0, 255), red);
+    border: 1px solid black;
+    padding: 50px;
+ }
+    
